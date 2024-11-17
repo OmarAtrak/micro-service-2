@@ -17,4 +17,4 @@ build/
 ### VS Code ###
 .vscode/
 
-config-repo/.git
+/config-repo/.git
